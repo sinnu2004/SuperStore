@@ -30,8 +30,8 @@ Visualized profit by year using a Seaborn bar plot
 📈 Excel Pivot Reporting
 
 Dashboard & Images
+<img width="937" height="455" alt="image" src="https://github.com/user-attachments/assets/5c7e63b5-658d-48a9-b1e5-aa90e19b6753" />
 
-<img width="920" height="450" alt="image" src="https://github.com/user-attachments/assets/6457815f-bcad-44c7-9777-80b54c11883b" />
 <img width="802" height="291" alt="image" src="https://github.com/user-attachments/assets/fb4b9c04-09b1-44e2-a4ee-78bae1519972" />
 
 
