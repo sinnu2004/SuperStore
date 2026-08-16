@@ -31,7 +31,7 @@ Visualized profit by year using a Seaborn bar plot
 
 Dashboard 
 
-<img width="1010" height="508" alt="image" src="https://github.com/user-attachments/assets/6035e467-39a7-4e36-b1a0-e2f669a9be34" />
+<img width="920" height="450" alt="image" src="https://github.com/user-attachments/assets/6457815f-bcad-44c7-9777-80b54c11883b" />
 
 
 Built using SuperStoreOrders as the source, with pivot tables/charts on separate sheets:
